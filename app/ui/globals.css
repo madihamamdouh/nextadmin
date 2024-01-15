@@ -1,0 +1,48 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,700;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{
+    --bg-light:#FFFFFF;
+    --bg-soft-light: #F5F5F9;
+    --bg-light-gray:#697A8D;
+    --bg-drak-gray:#435971;
+    --bg-hover: #3E5E74;
+    --bg-light-hover: #3e5e7425;
+   --bg-ligth-purbel:#b4b5f1;
+   --bg-purbel: #696CFF;
+--bg-orange: #FFAB00;
+   --bg-danger:#FF3E1D;
+
+    --text-light:#A1ACB8;
+    --text-header: #697A8D;
+    --text-header-1:#566A7F;
+    --text-hover:#435971;
+    --text-dark:#3E5E74;
+
+
+
+
+   
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+
+}
+body{
+    background-color: var(--bg-soft-light);
+    color: var(--text-header);
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}

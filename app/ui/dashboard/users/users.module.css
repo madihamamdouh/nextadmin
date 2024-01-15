@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    margin-bottom: 20px;
+    padding-inline-start: 20px;
+    font-family: 'Public' sans-serif;
+    font-size: 20.281px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 31.098px; /* 153.333% */
+}

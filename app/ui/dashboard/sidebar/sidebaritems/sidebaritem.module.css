@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    padding: 16px;
+    align-items: center;
+    gap: 15px;
+}
+.item{
+    color: var(--text-dark);
+}
+.icon{
+    width: 18.23px;
+    height: 18.23px;
+    flex-shrink: 0; 
+    background-color: var(--bg-ligth-purbel) ;
+    border-radius: 50%;
+    padding: 3px;
+}
+.container:hover, .active{
+    border-radius: 8.113px;
+    opacity: 1;
+
+    background:  var(--bg-light-hover);
+}

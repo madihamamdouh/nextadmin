@@ -1,6 +1,14 @@
+
+
+import Dashboard from './dashboard/page'
+
 const Homepage = () => {
   return (
-    <div>Homepage</div>
+  
+  <div>
+    
+  </div>
+
   )
 }
 

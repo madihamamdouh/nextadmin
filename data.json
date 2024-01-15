@@ -1,0 +1,59 @@
+
+{
+    "List":
+[
+    
+   
+    {
+       "title": "Dashboard",
+        "path": "/dashboard",
+        "icon": "/assets/icons/dashboard.svg"
+    },
+    {
+       "title": "Analytics",
+        "path": "/analytics",
+        "icon": "/assets/icons/Circle.svg"
+    },
+    {
+       "title": "Investors",
+        "path": "/investors",
+        "icon": "/assets/icons/investors.svg"
+    },
+    {
+       "title": "Developers",
+        "path": "/developers",
+        "icon": "/assets/icons/developers.svg"
+    },
+    {
+       "title": "Revenue",
+        "path": "/revenue",
+        "icon": "/assets/icons/revenue.svg"
+    },
+    {
+       "title": "Disputes",
+        "path": "/disputes",
+        "icon": "/assets/icons/disputes.svg"
+    },
+    {
+       "title": "Todo",
+        "path": "/todo",
+        "icon": "/assets/icons/todo.svg"
+    },
+    {
+       "title": "Calendar",
+        "path": "/calendar",
+        "icon": "/assets/icons/calendar.svg"
+    },
+    {
+       "title": "Chat",
+        "path": "/chat",
+        "icon": "/assets/icons/chat.svg"
+    },
+    {
+       "title": "Email",
+        "path": "/email",
+        "icon": "/assets/icons/email.svg"
+    }
+]
+}
+
